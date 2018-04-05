@@ -4,6 +4,9 @@ jobs:
     docker:
       - image: syndesis/syndesis-docs-builder-image:latest
     working_directory: /workspace
+    branches:
+      ignore:
+        gh-pages
 
     steps:
       - run:
