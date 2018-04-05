@@ -1,2 +1,2 @@
-# atlasmap.io
-The atlasmap.io Website
+## Welcome to atlasmap.io Pages
+

@@ -1,0 +1,12 @@
+/node_modules
+/public
+/themes/syndesis/static/js
+/themes/syndesis/static/css
+/themes/syndesis/static/fonts
+/themes/syndesis/static/CNAME
+/static/CNAME
+/data/sri
+.cache
+.config
+.yarnrc
+yarn-error.log

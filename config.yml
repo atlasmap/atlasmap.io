@@ -1,0 +1,16 @@
+baseURL: "https://atlasmap.io/"
+languageCode: "en-gb"
+title: "AtlasMap"
+theme: "atlasmap"
+canonifyURLs: true
+metaDataFormat: "yaml"
+pygmentsCodeFences: true
+pygmentsCodeFencesGuessSyntax: true
+pygmentsStyle: github
+
+menu:
+  topnav:
+  - name: "code"
+    weight: -110
+    identifier: "code"
+    url: "https://github.com/atlasmap"
