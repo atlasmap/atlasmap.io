@@ -45,6 +45,7 @@ jobs:
             git config --global user.name "tm.igarashi+atlasmapci@gmail.com"
 
             if [[ "${CIRCLE_PROJECT_USERNAME}" == "atlasmap" ]]; then
+              mkdir static
               echo atlasmap.io > static/CNAME
             fi
 

@@ -1,9 +1,9 @@
 /node_modules
 /public
-/themes/syndesis/static/js
-/themes/syndesis/static/css
-/themes/syndesis/static/fonts
-/themes/syndesis/static/CNAME
+/themes/atlasmap/static/js
+/themes/atlasmap/static/css
+/themes/atlasmap/static/fonts
+/themes/atlasmap/static/CNAME
 /static/CNAME
 /data/sri
 .cache
