@@ -1,4 +1,4 @@
-baseURL: "https://atlasmap.io/"
+baseURL: "https://www.atlasmap.io/"
 languageCode: "en-gb"
 title: "AtlasMap"
 theme: "atlasmap"
