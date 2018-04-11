@@ -44,8 +44,8 @@ jobs:
               exit 0
             fi
 
-            git config --global user.email "AtlasMap CI"
-            git config --global user.name "tm.igarashi+atlasmapci@gmail.com"
+            git config --global user.name "AtlasMap CI"
+            git config --global user.email "tm.igarashi+atlasmapci@gmail.com"
 
             if [[ "${CIRCLE_PROJECT_USERNAME}" == "atlasmap" ]]; then
               mkdir static
