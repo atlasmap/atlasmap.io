@@ -1,0 +1,10 @@
+ersion: 2
+jobs:
+  build:
+    docker:
+      - image: syndesis/syndesis-docs-builder-image:latest
+    working_directory: /workspace
+    branches:
+      ignore:
+        gh-pages
+    steps:
