@@ -12,7 +12,7 @@ jobs:
       - run:
           name: Install tools
           command: |-
-            yarn global add gulp-cli
+            yarn install
             pip install --upgrade pygments pygments-style-github
 
       - checkout
@@ -24,7 +24,6 @@ jobs:
       - run:
           name: Install dependencies
           command: |-
-            yarn
             npm rebuild node-sass
 
       - save_cache:
@@ -34,7 +33,7 @@ jobs:
 
       - run:
           name: Build site
-          command: gulp build
+          command: yarn gulp build
 
       - add_ssh_keys
 
