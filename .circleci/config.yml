@@ -49,7 +49,7 @@ jobs:
 
             if [[ "${CIRCLE_PROJECT_USERNAME}" == "atlasmap" ]]; then
               mkdir static
-              echo atlasmap.io > static/CNAME
+              echo www.atlasmap.io > static/CNAME
             fi
 
             ./publish-to-gh-pages.sh
