@@ -60,3 +60,6 @@ jobs:
                 -H "Content-Type: application/json" \
                 --data '{"purge_everything":true}'
             fi
+
+      - store_artifacts:
+          path: public
