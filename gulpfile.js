@@ -62,7 +62,7 @@ gulp.task('hugo', function (cb) {
 
   var githubProject = process.env['CIRCLE_PROJECT_USERNAME'];
   var baseURLArg = '';
-  if (githubProject && githubProject !== "atlasmapio" && process.env['CIRCLE_PROJECT_REPONAME']) {
+  if (githubProject && githubProject !== "atlasmap" && process.env['CIRCLE_PROJECT_REPONAME']) {
     baseURLArg = ' --baseURL https://' + githubProject + '.github.io/' + process.env['CIRCLE_PROJECT_REPONAME'] + '/';
   }
 

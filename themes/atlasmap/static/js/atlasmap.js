@@ -489,3 +489,24 @@ if(n||(n=new h(this,o),t(this).data(a,n)),"string"==typeof e){if(void 0===n[e])t
 
   return AnchorJS;
 }));
+
+'use strict';
+
+(function() {
+  anchors.options = {
+    class: 'anchorjs-icon align-middle',
+    icon: '\uf0c1',
+  };
+  anchors.add('#main h2,#main h3,#main h4,#main h5');
+})();
+'use strict';
+
+(function() {
+  $(document).ready(function () {
+    $('[data-toggle="offcanvas"]').click(function (event) {
+      if (event.target.dataset) {
+        $(event.target.dataset.target).toggleClass('active')
+      }
+    });
+  });
+})();
