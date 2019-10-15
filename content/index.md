@@ -18,6 +18,7 @@ weight: 20
 ---
 [![Runtime @ Maven Central](https://maven-badges.herokuapp.com/maven-central/io.atlasmap/atlas-parent/badge.svg?style=flat-square)](https://maven-badges.herokuapp.com/maven-central/io.atlasmap/atlas-parent/)
 [![UI @ NPM](https://badge.fury.io/js/%40atlasmap%2Fatlasmap-data-mapper.svg)](https://badge.fury.io/js/%40atlasmap%2Fatlasmap-data-mapper)
+[![Gitter chat](https://badges.gitter.im/atlasmap/community.png)](https://gitter.im/atlasmap/community)
 
 AtlasMap is a data mapping solution with interactive web based user interface, that simplifies configuring integrations between Java, XML, and JSON data sources. You can design your data mapping with AtlasMap Data Mapper UI canvas, and then run that data mapping via runtime engine.
 
