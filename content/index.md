@@ -20,6 +20,8 @@ weight: 20
 [![UI @ NPM](https://badge.fury.io/js/%40atlasmap%2Fatlasmap-data-mapper.svg)](https://badge.fury.io/js/%40atlasmap%2Fatlasmap-data-mapper)
 [![Gitter chat](https://badges.gitter.im/atlasmap/community.png)](https://gitter.im/atlasmap/community)
 
+[Google Group](https://groups.google.com/d/forum/atlasmap)
+
 AtlasMap is a data mapping solution with interactive web based user interface, that simplifies configuring integrations between Java, XML, and JSON data sources. You can design your data mapping with AtlasMap Data Mapper UI canvas, and then run that data mapping via runtime engine.
 
 In addition to plain Java API provided by runtime engine, AtlasMap also provides [camel-atlasmap Component](http://docs.atlasmap.io/developer-guide/#camel-atlasmap) to perform data mapping as a part of [Apache Camel](http://camel.apache.org/) route.
