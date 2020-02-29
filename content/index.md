@@ -13,7 +13,7 @@ menu:
     weight: -200
 sidebar: sidenav
 title: "Introducing AtlasMap"
-toc: true
+toc: false 
 weight: 20
 ---
 [![Runtime @ Maven Central](https://maven-badges.herokuapp.com/maven-central/io.atlasmap/atlas-parent/badge.svg?style=flat-square)](https://maven-badges.herokuapp.com/maven-central/io.atlasmap/atlas-parent/)
@@ -35,3 +35,8 @@ AtlasMap Data Mapper UI is primarily designed to work within [Syndesis UI](https
 
 ![mappinglist](images/mappinglist.png)
 
+<p align="center">
+  <a href="https://www.netlify.com">
+    <img src="https://www.netlify.com/img/global/badges/netlify-color-accent.svg" alt="Deploys by Netlify" />
+  </a>
+</p>
