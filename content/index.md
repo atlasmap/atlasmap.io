@@ -40,5 +40,5 @@ AtlasMap Data Mapper UI is primarily designed to work within [Syndesis UI](https
     <img src="https://www.netlify.com/img/global/badges/netlify-color-accent.svg" alt="Deploys by Netlify" />
   </a>
 </p>
-&nbsp;
+<p>&nbsp;</p>
 
