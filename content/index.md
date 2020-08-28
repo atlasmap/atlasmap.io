@@ -17,7 +17,7 @@ toc: false
 weight: 20
 ---
 [![Runtime @ Maven Central](https://maven-badges.herokuapp.com/maven-central/io.atlasmap/atlas-parent/badge.svg?style=flat-square)](https://maven-badges.herokuapp.com/maven-central/io.atlasmap/atlas-parent/)
-&nbsp;[![UI @ NPM](https://badge.fury.io/js/%40atlasmap%2Fatlasmap-data-mapper.svg)](https://badge.fury.io/js/%40atlasmap%2Fatlasmap-data-mapper)
+&nbsp;[![UI @ NPM](https://badge.fury.io/js/%40atlasmap%2Fatlasmap.svg)](https://badge.fury.io/js/%40atlasmap%2Fatlasmap)
 &nbsp;[![Netlify Status](https://api.netlify.com/api/v1/badges/08a56260-a890-4ffb-9c6d-7b7be24f0cc7/deploy-status)](https://app.netlify.com/sites/atlasmap/deploys)
 &nbsp;[![Gitter chat](https://badges.gitter.im/atlasmap/community.png)](https://gitter.im/atlasmap/community)
 
