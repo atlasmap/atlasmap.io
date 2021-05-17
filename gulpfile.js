@@ -22,6 +22,7 @@ function sriTransformer(tHash) {
 
 gulp.task('css', function () {
   return gulp.src('./themes/atlasmap/scss/**/*.scss')
+    .pipe(gulp.src('./node_modules/font-awesome/css/font-awesome.css'))
     .pipe(plugins.sass())
     .pipe(plugins.postcss())
     .pipe(gulp.dest('./themes/atlasmap/static/css'));
