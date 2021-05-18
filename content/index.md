@@ -25,9 +25,12 @@ weight: 20
 
 AtlasMap is a data mapping solution with interactive web based user interface, that simplifies configuring integrations between Java, XML, and JSON data sources. You can design your data mapping with AtlasMap Data Mapper UI canvas, and then run that data mapping via runtime engine.
 
-In addition to plain Java API provided by runtime engine, AtlasMap also provides [camel-atlasmap Component](http://docs.atlasmap.io/developer-guide/#camel-atlasmap) to perform data mapping as a part of [Apache Camel](http://camel.apache.org/) route.
+In addition to plain Java API provided by runtime engine, [camel-atlasmap Component](https://camel.apache.org/components/latest/atlasmap-component.html) is also available to perform data mapping as a part of [Apache Camel](http://camel.apache.org/) route.
 
-AtlasMap Data Mapper UI is primarily designed to work within [Syndesis UI](https://syndesis.io/). The easiest way to install and run Data Mapper UI is to install and run [Syndesis](https://syndesis.io/). Simply follow the [Syndesis Developer Handbook](https://doc.syndesis.io/) to install, and run Syndesis UI. You will find the Data Mapper UI under the integrations panel after selecting or adding an integration with a data mapping step involved in the integration.
+The easiest way to use AtlasMap Data Mapper UI is the [standalone mode](https://docs.atlasmap.io/#quickstart). Or you can use it through a [VS Code plugin](https://marketplace.visualstudio.com/items?itemName=redhat.atlasmap-viewer).
+
+Historically, the AtlasMap Data Mapper UI was designed to work within [Syndesis UI](https://syndesis.io/) and it's still a best way to experience full benefits of integrated typed data mapping with UI. You can install and run [Syndesis](https://syndesis.io/) by following the [Syndesis Developer Handbook](https://doc.syndesis.io/). You will find the AtlasMap Data Mapper UI under the integrations panel after selecting or adding an integration with a Data Mapper step involved in the integration.
+
 
 
 ![datamapper](images/datamapper.png)
