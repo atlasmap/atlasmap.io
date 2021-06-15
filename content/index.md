@@ -19,9 +19,10 @@ weight: 20
 [![Runtime @ Maven Central](https://maven-badges.herokuapp.com/maven-central/io.atlasmap/atlas-parent/badge.svg?style=flat-square)](https://maven-badges.herokuapp.com/maven-central/io.atlasmap/atlas-parent/)
 &nbsp;[![UI @ NPM](https://badge.fury.io/js/%40atlasmap%2Fatlasmap.svg)](https://badge.fury.io/js/%40atlasmap%2Fatlasmap)
 &nbsp;[![CircleCI Badge](https://circleci.com/gh/atlasmap/atlasmap.svg?style=shield)](https://circleci.com/gh/atlasmap/atlasmap)
-&nbsp;[![Java supported versions build](https://github.com/atlasmap/atlasmap/actions/workflows/java-supported-versions-build.yml/badge.svg)](https://github.com/atlasmap/atlasmap/actions/workflows/java-supported-versions-build.yml)
-&nbsp;[![Codacy Badge](https://api.codacy.com/project/badge/Grade/4acba1646e0a4cbabac3a76ad5df4df7)](https://www.codacy.com/app/atlasmapio/atlasmap?utm_source=github.com&utm_medium=referral&utm_content=atlasmap/atlasmap&utm_campaign=Badge_Grade)
-&nbsp;[![Codacy Badge](https://api.codacy.com/project/badge/Coverage/4acba1646e0a4cbabac3a76ad5df4df7)](https://www.codacy.com/app/atlasmapio/atlasmap?utm_source=github.com&utm_medium=referral&utm_content=atlasmap/atlasmap&utm_campaign=Badge_Coverage)
+&nbsp;[![Master](https://github.com/atlasmap/atlasmap/actions/workflows/master.yml/badge.svg)](https://github.com/atlasmap/atlasmap/actions/workflows/master.yml)
+&nbsp;[![Supported](https://github.com/atlasmap/atlasmap/actions/workflows/supported-build.yml/badge.svg)](https://github.com/atlasmap/atlasmap/actions/workflows/supported-build.yml)
+&nbsp;[![Codacy Badge](https://app.codacy.com/project/badge/Grade/57f3935eba6b4438976295efea04ac0c)](https://www.codacy.com/gh/atlasmap/atlasmap/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=atlasmap/atlasmap&amp;utm_campaign=Badge_Grade)
+&nbsp;[![Codacy Badge](https://app.codacy.com/project/badge/Coverage/57f3935eba6b4438976295efea04ac0c)](https://www.codacy.com/gh/atlasmap/atlasmap/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=atlasmap/atlasmap&amp;utm_campaign=Badge_Coverage)
 &nbsp;[![Gitter chat](https://badges.gitter.im/atlasmap/community.png)](https://gitter.im/atlasmap/community)
 
 [Google Group](https://groups.google.com/d/forum/atlasmap)
