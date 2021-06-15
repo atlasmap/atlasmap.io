@@ -18,7 +18,6 @@ weight: 20
 ---
 [![Runtime @ Maven Central](https://maven-badges.herokuapp.com/maven-central/io.atlasmap/atlas-parent/badge.svg?style=flat-square)](https://maven-badges.herokuapp.com/maven-central/io.atlasmap/atlas-parent/)
 &nbsp;[![UI @ NPM](https://badge.fury.io/js/%40atlasmap%2Fatlasmap.svg)](https://badge.fury.io/js/%40atlasmap%2Fatlasmap)
-&nbsp;[![CircleCI Badge](https://circleci.com/gh/atlasmap/atlasmap.svg?style=shield)](https://circleci.com/gh/atlasmap/atlasmap)
 &nbsp;[![Master](https://github.com/atlasmap/atlasmap/actions/workflows/master.yml/badge.svg)](https://github.com/atlasmap/atlasmap/actions/workflows/master.yml)
 &nbsp;[![Supported](https://github.com/atlasmap/atlasmap/actions/workflows/supported-build.yml/badge.svg)](https://github.com/atlasmap/atlasmap/actions/workflows/supported-build.yml)
 &nbsp;[![Codacy Badge](https://app.codacy.com/project/badge/Grade/57f3935eba6b4438976295efea04ac0c)](https://www.codacy.com/gh/atlasmap/atlasmap/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=atlasmap/atlasmap&amp;utm_campaign=Badge_Grade)
