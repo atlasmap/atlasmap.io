@@ -23,8 +23,8 @@ weight: 20
 &nbsp;[![Codacy Badge](https://app.codacy.com/project/badge/Grade/57f3935eba6b4438976295efea04ac0c)](https://www.codacy.com/gh/atlasmap/atlasmap/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=atlasmap/atlasmap&amp;utm_campaign=Badge_Grade)
 &nbsp;[![Codacy Badge](https://app.codacy.com/project/badge/Coverage/57f3935eba6b4438976295efea04ac0c)](https://www.codacy.com/gh/atlasmap/atlasmap/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=atlasmap/atlasmap&amp;utm_campaign=Badge_Coverage)
 &nbsp;[![Gitter chat](https://badges.gitter.im/atlasmap/community.png)](https://gitter.im/atlasmap/community)
+&nbsp;[![GitHub Discussions](https://img.shields.io/github/discussions/atlasmap/atlasmap)](https://github.com/atlasmap/atlasmap/discussions)
 
-[Google Group](https://groups.google.com/d/forum/atlasmap)
 
 AtlasMap is a data mapping solution with interactive web based user interface, that simplifies configuring integrations between Java, XML, and JSON data sources. You can design your data mapping with AtlasMap Data Mapper UI canvas, and then run that data mapping via runtime engine.
 
