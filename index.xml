@@ -12,8 +12,7 @@
       <pubDate>Tue, 16 May 2017 15:58:18 +0100</pubDate>
       
       <guid>https://www.atlasmap.io/</guid>
-      <description>Google Group
-AtlasMap is a data mapping solution with interactive web based user interface, that simplifies configuring integrations between Java, XML, and JSON data sources. You can design your data mapping with AtlasMap Data Mapper UI canvas, and then run that data mapping via runtime engine.
+      <description>AtlasMap is a data mapping solution with interactive web based user interface, that simplifies configuring integrations between Java, XML, and JSON data sources. You can design your data mapping with AtlasMap Data Mapper UI canvas, and then run that data mapping via runtime engine.
 In addition to plain Java API provided by runtime engine, camel-atlasmap Component is also available to perform data mapping as a part of Apache Camel route.</description>
     </item>
     
