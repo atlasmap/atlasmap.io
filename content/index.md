@@ -28,7 +28,7 @@ weight: 20
 
 AtlasMap is a data mapping solution with interactive web based user interface, that simplifies configuring integrations between Java, XML, CSV and JSON data sources. You can design your data mapping with AtlasMap Data Mapper UI canvas, and then run that data mapping via runtime engine.
 
-In addition to plain Java API provided by runtime engine, [camel-atlasmap Component](https://camel.apache.org/components/latest/atlasmap-component.html) is also available to perform data mapping as a part of [Apache Camel](http://camel.apache.org/) route. There is also a [Camel Quarkus extension](https://camel.apache.org/camel-quarkus/latest/reference/extensions/atlasmap.html) available.
+In addition to plain Java API provided by runtime engine, [camel-atlasmap Component](https://camel.apache.org/components/latest/atlasmap-component.html) is also available to perform data mapping as a part of [Apache Camel](http://camel.apache.org/) route.
 
 The easiest way to use AtlasMap Data Mapper UI is the [standalone mode](https://docs.atlasmap.io/#quickstart). Or you can use it through a [VS Code plugin](https://marketplace.visualstudio.com/items?itemName=redhat.atlasmap-viewer).
 
